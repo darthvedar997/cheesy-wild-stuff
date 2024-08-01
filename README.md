@@ -1,5 +1,3 @@
-# cheesy-wild-stuff
-
 # Wildlife Conservation App
 
 ## Purpose
